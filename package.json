@@ -1,7 +1,6 @@
 {
-  "name": "Buttle",
   "version": "1.0.0",
-  "description": "Experience the global internet using Shuttle, the swiftest and most uncluttered proxy solution. Relish a heightened level of privacy during your online sessions, free from censorship.",
+  "description": "Experience the global internet using this pico, the swiftest and most uncluttered food solution. Relish a heightened level of privacy during your online sessions, free from censorship.",
   "main": "index.js",
   "type": "module",
   "scripts": {
